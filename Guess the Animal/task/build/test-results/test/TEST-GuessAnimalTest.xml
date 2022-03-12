@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GuessAnimalTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-12T13:45:49" hostname="DESKTOP-HNQ0AKR" time="3.865">
+  <properties/>
+  <testcase name="start" classname="GuessAnimalTest" time="3.865"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+esperanto is started.
+Saluton!
+
+Mi volas lerni pri bestoj.
+Kiun beston vi plej ŝatas?
+> kato
+Bonvenon al la sperta sistemo de la besto!
+
+Kion vi volas fari:
+
+ 1. Ludu la divenludon
+ 2. Listo de ĉiuj bestoj
+ 3. Serĉi beston
+ 4. Kalkulu statistikojn
+ 5. Forigu beston
+ 6. Presu la Sciarbon
+ 0. Eliri
+ > 1
+Vi pensas pri besto, kaj mi supozas ĝin.
+Premu enen kiam vi pretas.
+> 
+Ĉu ĝi estas kato?
+> ne
+Mi rezignas. Kiun beston vi havas en la kapo?
+> hundo
+Indiku fakton, kiu distingas hundo de kato:
+La frazo devas esti de la formato: Ĝi <povas/havas/estas/...> ....
+> Ĝi povas surgrimpi arbon
+Ĉu la aserto ĝustas por la hundo?
+> ne
+Mi lernis la jenajn faktojn pri bestoj:
+ - La kato povas surgrimpi arbon.
+ - La hundo ne povas surgrimpi arbon.
+Bonega! Nun mi scias multe pli pri bestoj!
+Dankon! Mi tro amuziĝis! Ĉu vi volas provi denove?
+> jes
+Vi pensas pri besto, kaj mi supozas ĝin.
+Premu enen kiam vi pretas.
+> 
+Ĉu ĝi povas surgrimpi arbon?
+> jes
+Ĉu ĝi estas kato?
+> ne
+Mi rezignas. Kiun beston vi havas en la kapo?
+> linko
+Indiku fakton, kiu distingas linko de kato:
+La frazo devas esti de la formato: Ĝi <povas/havas/estas/...> ....
+> ĝi loĝas en la arbaro
+Ĉu la aserto ĝustas por la linko?
+> jes
+Mi lernis la jenajn faktojn pri bestoj:
+ - La kato ne loĝas en la arbaro.
+ - La linko loĝas en la arbaro.
+Mirinda! Nun mi scias multe pli pri bestoj!
+Dankon! Mi tro amuziĝis! Ĉu vi volas ludi denove?
+> ne
+
+Kion vi volas fari:
+
+ 1. Ludu la divenludon
+ 2. Listo de ĉiuj bestoj
+ 3. Serĉi beston
+ 4. Kalkulu statistikojn
+ 5. Forigu beston
+ 6. Presu la Sciarbon
+ 0. Eliri
+ > 0
+
+Ĝis!
+Saluton!
+
+Bonvenon al la sperta sistemo de la besto!
+
+Kion vi volas fari:
+
+ 1. Ludu la divenludon
+ 2. Listo de ĉiuj bestoj
+ 3. Serĉi beston
+ 4. Kalkulu statistikojn
+ 5. Forigu beston
+ 6. Presu la Sciarbon
+ 0. Eliri
+ > 2
+Jen la bestoj, kiujn mi konas:
+ - hundo
+ - kato
+ - linko
+
+Kion vi volas fari:
+
+ 1. Ludu la divenludon
+ 2. Listo de ĉiuj bestoj
+ 3. Serĉi beston
+ 4. Kalkulu statistikojn
+ 5. Forigu beston
+ 6. Presu la Sciarbon
+ 0. Eliri
+ > 3
+Enigu la nomon de besto:
+> linko
+Faktoj pri la linko:
+ - Ĝi povas surgrimpi arbon.
+ - Ĝi loĝas en la arbaro.
+
+Kion vi volas fari:
+
+ 1. Ludu la divenludon
+ 2. Listo de ĉiuj bestoj
+ 3. Serĉi beston
+ 4. Kalkulu statistikojn
+ 5. Forigu beston
+ 6. Presu la Sciarbon
+ 0. Eliri
+ > 4
+La statistiko de la Scio-Arbo
+- radika nodo                  ĝi povas surgrimpi arbon
+- tuta nombro de nodoj         5
+- totala nombro de bestoj      3
+- totala nombro de deklaroj    2
+- alteco de la arbo            2
+- minimuma profundo            1
+- averaĝa profundo             1,7
+
+Kion vi volas fari:
+
+ 1. Ludu la divenludon
+ 2. Listo de ĉiuj bestoj
+ 3. Serĉi beston
+ 4. Kalkulu statistikojn
+ 5. Forigu beston
+ 6. Presu la Sciarbon
+ 0. Eliri
+ > 0
+
+Estis agrable vidi vin!
+Bonan tagon!
+
+Mi volas lerni pri bestoj.
+Kiun beston vi plej ŝatas?
+> kato
+Bonvenon al la sperta sistemo de la besto!
+
+Kion vi volas fari:
+
+ 1. Ludu la divenludon
+ 2. Listo de ĉiuj bestoj
+ 3. Serĉi beston
+ 4. Kalkulu statistikojn
+ 5. Forigu beston
+ 6. Presu la Sciarbon
+ 0. Eliri
+ > 1
+Vi pensas pri besto, kaj mi supozas ĝin.
+Premu enen kiam vi pretas.
+> 
+Ĉu ĝi estas kato?
+> ne
+Mi rezignas. Kiun beston vi havas en la kapo?
+> hundo
+Indiku fakton, kiu distingas hundo de kato:
+La frazo devas esti de la formato: Ĝi <povas/havas/estas/...> ....
+> Ĝi povas surgrimpi arbon
+Ĉu la aserto ĝustas por la hundo?
+> ne
+Mi lernis la jenajn faktojn pri bestoj:
+ - La kato povas surgrimpi arbon.
+ - La hundo ne povas surgrimpi arbon.
+Bonega! Nun mi scias multe pli pri bestoj!
+Dankon! Mi tro amuziĝis! Ĉu vi volas ludi denove?
+> jes
+Vi pensas pri besto, kaj mi supozas ĝin.
+Premu enen kiam vi pretas.
+> 
+Ĉu ĝi povas surgrimpi arbon?
+> jes
+Ĉu ĝi estas kato?
+> ne
+Mi rezignas. Kiun beston vi havas en la kapo?
+> linko
+Indiku fakton, kiu distingas linko de kato:
+La frazo devas esti de la formato: Ĝi <povas/havas/estas/...> ....
+> ĝi loĝas en la arbaro
+Ĉu la aserto ĝustas por la linko?
+> jes
+Mi lernis la jenajn faktojn pri bestoj:
+ - La kato ne loĝas en la arbaro.
+ - La linko loĝas en la arbaro.
+Terura! Nun mi scias multe pli pri bestoj!
+Dankon pro ludado! Ĉu vi volas ludi denove?
+> ne
+
+Kion vi volas fari:
+
+ 1. Ludu la divenludon
+ 2. Listo de ĉiuj bestoj
+ 3. Serĉi beston
+ 4. Kalkulu statistikojn
+ 5. Forigu beston
+ 6. Presu la Sciarbon
+ 0. Eliri
+ > 0
+
+Ĝis!
+Saluton!
+
+Bonvenon al la sperta sistemo de la besto!
+
+Kion vi volas fari:
+
+ 1. Ludu la divenludon
+ 2. Listo de ĉiuj bestoj
+ 3. Serĉi beston
+ 4. Kalkulu statistikojn
+ 5. Forigu beston
+ 6. Presu la Sciarbon
+ 0. Eliri
+ > 2
+Jen la bestoj, kiujn mi konas:
+ - hundo
+ - kato
+ - linko
+
+Kion vi volas fari:
+
+ 1. Ludu la divenludon
+ 2. Listo de ĉiuj bestoj
+ 3. Serĉi beston
+ 4. Kalkulu statistikojn
+ 5. Forigu beston
+ 6. Presu la Sciarbon
+ 0. Eliri
+ > 3
+Enigu la nomon de besto:
+> linko
+Faktoj pri la linko:
+ - Ĝi povas surgrimpi arbon.
+ - Ĝi loĝas en la arbaro.
+
+Kion vi volas fari:
+
+ 1. Ludu la divenludon
+ 2. Listo de ĉiuj bestoj
+ 3. Serĉi beston
+ 4. Kalkulu statistikojn
+ 5. Forigu beston
+ 6. Presu la Sciarbon
+ 0. Eliri
+ > 4
+La statistiko de la Scio-Arbo
+- radika nodo                  ĝi povas surgrimpi arbon
+- tuta nombro de nodoj         5
+- totala nombro de bestoj      3
+- totala nombro de deklaroj    2
+- alteco de la arbo            2
+- minimuma profundo            1
+- averaĝa profundo             1,7
+
+Kion vi volas fari:
+
+ 1. Ludu la divenludon
+ 2. Listo de ĉiuj bestoj
+ 3. Serĉi beston
+ 4. Kalkulu statistikojn
+ 5. Forigu beston
+ 6. Presu la Sciarbon
+ 0. Eliri
+ > 0
+
+Ĝis revido!
+Saluton!
+
+Mi volas lerni pri bestoj.
+Kiun beston vi plej ŝatas?
+> kato
+Bonvenon al la sperta sistemo de la besto!
+
+Kion vi volas fari:
+
+ 1. Ludu la divenludon
+ 2. Listo de ĉiuj bestoj
+ 3. Serĉi beston
+ 4. Kalkulu statistikojn
+ 5. Forigu beston
+ 6. Presu la Sciarbon
+ 0. Eliri
+ > 1
+Vi pensas pri besto, kaj mi supozas ĝin.
+Premu enen kiam vi pretas.
+> 
+Ĉu ĝi estas kato?
+> ne
+Mi rezignas. Kiun beston vi havas en la kapo?
+> hundo
+Indiku fakton, kiu distingas hundo de kato:
+La frazo devas esti de la formato: Ĝi <povas/havas/estas/...> ....
+> Ĝi povas surgrimpi arbon
+Ĉu la aserto ĝustas por la hundo?
+> ne
+Mi lernis la jenajn faktojn pri bestoj:
+ - La kato povas surgrimpi arbon.
+ - La hundo ne povas surgrimpi arbon.
+Terura! Nun mi scias multe pli pri bestoj!
+Dankon pro ludado! Ĉu vi volas ripeti?
+> jes
+Vi pensas pri besto, kaj mi supozas ĝin.
+Premu enen kiam vi pretas.
+> 
+Ĉu ĝi povas surgrimpi arbon?
+> jes
+Ĉu ĝi estas kato?
+> ne
+Mi rezignas. Kiun beston vi havas en la kapo?
+> linko
+Indiku fakton, kiu distingas linko de kato:
+La frazo devas esti de la formato: Ĝi <povas/havas/estas/...> ....
+> ĝi loĝas en la arbaro
+Ĉu la aserto ĝustas por la linko?
+> jes
+Mi lernis la jenajn faktojn pri bestoj:
+ - La kato ne loĝas en la arbaro.
+ - La linko loĝas en la arbaro.
+Bonega! Nun mi scias multe pli pri bestoj!
+Estis agrable ludi kun vi! Ĉu vi volas ludi denove?
+> ne
+
+Kion vi volas fari:
+
+ 1. Ludu la divenludon
+ 2. Listo de ĉiuj bestoj
+ 3. Serĉi beston
+ 4. Kalkulu statistikojn
+ 5. Forigu beston
+ 6. Presu la Sciarbon
+ 0. Eliri
+ > 0
+
+Estis agrable vidi vin!
+Saluton!
+
+Bonvenon al la sperta sistemo de la besto!
+
+Kion vi volas fari:
+
+ 1. Ludu la divenludon
+ 2. Listo de ĉiuj bestoj
+ 3. Serĉi beston
+ 4. Kalkulu statistikojn
+ 5. Forigu beston
+ 6. Presu la Sciarbon
+ 0. Eliri
+ > 2
+Jen la bestoj, kiujn mi konas:
+ - hundo
+ - kato
+ - linko
+
+Kion vi volas fari:
+
+ 1. Ludu la divenludon
+ 2. Listo de ĉiuj bestoj
+ 3. Serĉi beston
+ 4. Kalkulu statistikojn
+ 5. Forigu beston
+ 6. Presu la Sciarbon
+ 0. Eliri
+ > 3
+Enigu la nomon de besto:
+> linko
+Faktoj pri la linko:
+ - Ĝi povas surgrimpi arbon.
+ - Ĝi loĝas en la arbaro.
+
+Kion vi volas fari:
+
+ 1. Ludu la divenludon
+ 2. Listo de ĉiuj bestoj
+ 3. Serĉi beston
+ 4. Kalkulu statistikojn
+ 5. Forigu beston
+ 6. Presu la Sciarbon
+ 0. Eliri
+ > 4
+La statistiko de la Scio-Arbo
+- radika nodo                  ĝi povas surgrimpi arbon
+- tuta nombro de nodoj         5
+- totala nombro de bestoj      3
+- totala nombro de deklaroj    2
+- alteco de la arbo            2
+- minimuma profundo            1
+- averaĝa profundo             1,7
+
+Kion vi volas fari:
+
+ 1. Ludu la divenludon
+ 2. Listo de ĉiuj bestoj
+ 3. Serĉi beston
+ 4. Kalkulu statistikojn
+ 5. Forigu beston
+ 6. Presu la Sciarbon
+ 0. Eliri
+ > 0
+
+Ĝis revido!
+english is started.
+Hello!
+
+I want to learn about animals.
+Which animal do you like most?
+> cat
+Welcome to the animals expert system!
+
+What do you want to do:
+
+ 1. Play the guessing game
+ 2. List of all animals
+ 3. Search for an animal
+ 4. Calculate statistics
+ 5. Delete an animal
+ 6. Print the Knowledge Tree
+ 0. Exit
+ > 1
+You think of an animal, and I guess it.
+Press enter when youre ready.
+> 
+Is it a cat?
+> No
+I give up. What animal do you have in mind?
+> dog
+Specify a fact that distinguishes a dog from a cat:
+The sentence should be of the format: It can/has/is ....
+> it can climb trees
+Is the statement correct for the dog?
+> no
+I learned the following facts about animals:
+ - The cat can climb trees.
+ - The dog can't climb trees.
+Marvelous! Now I know much more about animals!
+Thank you for playing! Want to try again?
+> yes
+You think of an animal, and I guess it.
+Press enter when youre ready.
+> 
+Can it climb trees?
+> yes
+Is it a cat?
+> no
+I give up. What animal do you have in mind?
+> lynx
+Specify a fact that distinguishes a lynx from a cat:
+The sentence should be of the format: It can/has/is ....
+> it is living in the forest
+Is the statement correct for the lynx?
+> yes
+I learned the following facts about animals:
+ - The cat isn't living in the forest.
+ - The lynx is living in the forest.
+Marvelous! Now I know much more about animals!
+That was funny! One more game?
+> no
+
+What do you want to do:
+
+ 1. Play the guessing game
+ 2. List of all animals
+ 3. Search for an animal
+ 4. Calculate statistics
+ 5. Delete an animal
+ 6. Print the Knowledge Tree
+ 0. Exit
+ > 0
+
+See you soon!
+Good afternoon!
+
+Welcome to the animals expert system!
+
+What do you want to do:
+
+ 1. Play the guessing game
+ 2. List of all animals
+ 3. Search for an animal
+ 4. Calculate statistics
+ 5. Delete an animal
+ 6. Print the Knowledge Tree
+ 0. Exit
+ > 2
+Here are the animals I know:
+ - cat
+ - dog
+ - lynx
+
+What do you want to do:
+
+ 1. Play the guessing game
+ 2. List of all animals
+ 3. Search for an animal
+ 4. Calculate statistics
+ 5. Delete an animal
+ 6. Print the Knowledge Tree
+ 0. Exit
+ > 3
+Enter the animal:
+> lynx
+Facts about the lynx:
+ - It can climb trees.
+ - It is living in the forest.
+
+What do you want to do:
+
+ 1. Play the guessing game
+ 2. List of all animals
+ 3. Search for an animal
+ 4. Calculate statistics
+ 5. Delete an animal
+ 6. Print the Knowledge Tree
+ 0. Exit
+ > 4
+The Knowledge Tree stats
+- root node                    it can climb trees
+- total number of nodes        5
+- total number of animals      3
+- total number of statements   2
+- height of the tree           2
+- minimum depth                1
+- average depth                1.7
+
+What do you want to do:
+
+ 1. Play the guessing game
+ 2. List of all animals
+ 3. Search for an animal
+ 4. Calculate statistics
+ 5. Delete an animal
+ 6. Print the Knowledge Tree
+ 0. Exit
+ > 0
+
+See you later!
+Good afternoon!
+
+I want to learn about animals.
+Which animal do you like most?
+> cat
+Welcome to the animals expert system!
+
+What do you want to do:
+
+ 1. Play the guessing game
+ 2. List of all animals
+ 3. Search for an animal
+ 4. Calculate statistics
+ 5. Delete an animal
+ 6. Print the Knowledge Tree
+ 0. Exit
+ > 1
+You think of an animal, and I guess it.
+Press enter when youre ready.
+> 
+Is it a cat?
+> No
+I give up. What animal do you have in mind?
+> dog
+Specify a fact that distinguishes a dog from a cat:
+The sentence should be of the format: It can/has/is ....
+> it can climb trees
+Is the statement correct for the dog?
+> no
+I learned the following facts about animals:
+ - The cat can climb trees.
+ - The dog can't climb trees.
+Excellent! Now I know much more about animals!
+It was nice to play with you! One more game?
+> yes
+You think of an animal, and I guess it.
+Press enter when youre ready.
+> 
+Can it climb trees?
+> yes
+Is it a cat?
+> no
+I give up. What animal do you have in mind?
+> lynx
+Specify a fact that distinguishes a lynx from a cat:
+The sentence should be of the format: It can/has/is ....
+> it is living in the forest
+Is the statement correct for the lynx?
+> yes
+I learned the following facts about animals:
+ - The cat isn't living in the forest.
+ - The lynx is living in the forest.
+Excellent! Now I know much more about animals!
+It was a pleasure for me to know you better! Do you want to repeat?
+> no
+
+What do you want to do:
+
+ 1. Play the guessing game
+ 2. List of all animals
+ 3. Search for an animal
+ 4. Calculate statistics
+ 5. Delete an animal
+ 6. Print the Knowledge Tree
+ 0. Exit
+ > 0
+
+Talk to you later!
+Good afternoon!
+
+Welcome to the animals expert system!
+
+What do you want to do:
+
+ 1. Play the guessing game
+ 2. List of all animals
+ 3. Search for an animal
+ 4. Calculate statistics
+ 5. Delete an animal
+ 6. Print the Knowledge Tree
+ 0. Exit
+ > 2
+Here are the animals I know:
+ - cat
+ - dog
+ - lynx
+
+What do you want to do:
+
+ 1. Play the guessing game
+ 2. List of all animals
+ 3. Search for an animal
+ 4. Calculate statistics
+ 5. Delete an animal
+ 6. Print the Knowledge Tree
+ 0. Exit
+ > 3
+Enter the animal:
+> lynx
+Facts about the lynx:
+ - It can climb trees.
+ - It is living in the forest.
+
+What do you want to do:
+
+ 1. Play the guessing game
+ 2. List of all animals
+ 3. Search for an animal
+ 4. Calculate statistics
+ 5. Delete an animal
+ 6. Print the Knowledge Tree
+ 0. Exit
+ > 4
+The Knowledge Tree stats
+- root node                    it can climb trees
+- total number of nodes        5
+- total number of animals      3
+- total number of statements   2
+- height of the tree           2
+- minimum depth                1
+- average depth                1.7
+
+What do you want to do:
+
+ 1. Play the guessing game
+ 2. List of all animals
+ 3. Search for an animal
+ 4. Calculate statistics
+ 5. Delete an animal
+ 6. Print the Knowledge Tree
+ 0. Exit
+ > 0
+
+Have a nice one!
+Hello!
+
+I want to learn about animals.
+Which animal do you like most?
+> cat
+Welcome to the animals expert system!
+
+What do you want to do:
+
+ 1. Play the guessing game
+ 2. List of all animals
+ 3. Search for an animal
+ 4. Calculate statistics
+ 5. Delete an animal
+ 6. Print the Knowledge Tree
+ 0. Exit
+ > 1
+You think of an animal, and I guess it.
+Press enter when youre ready.
+> 
+Is it a cat?
+> No
+I give up. What animal do you have in mind?
+> dog
+Specify a fact that distinguishes a dog from a cat:
+The sentence should be of the format: It can/has/is ....
+> it can climb trees
+Is the statement correct for the dog?
+> no
+I learned the following facts about animals:
+ - The cat can climb trees.
+ - The dog can't climb trees.
+Nice! Now I know much more about animals!
+It was a pleasure for me to know you better! One more game?
+> yes
+You think of an animal, and I guess it.
+Press enter when youre ready.
+> 
+Can it climb trees?
+> yes
+Is it a cat?
+> no
+I give up. What animal do you have in mind?
+> lynx
+Specify a fact that distinguishes a lynx from a cat:
+The sentence should be of the format: It can/has/is ....
+> it is living in the forest
+Is the statement correct for the lynx?
+> yes
+I learned the following facts about animals:
+ - The cat isn't living in the forest.
+ - The lynx is living in the forest.
+Wonderful! Now I know much more about animals!
+That was funny! One more game?
+> no
+
+What do you want to do:
+
+ 1. Play the guessing game
+ 2. List of all animals
+ 3. Search for an animal
+ 4. Calculate statistics
+ 5. Delete an animal
+ 6. Print the Knowledge Tree
+ 0. Exit
+ > 0
+
+See you soon!
+Hello!
+
+Welcome to the animals expert system!
+
+What do you want to do:
+
+ 1. Play the guessing game
+ 2. List of all animals
+ 3. Search for an animal
+ 4. Calculate statistics
+ 5. Delete an animal
+ 6. Print the Knowledge Tree
+ 0. Exit
+ > 2
+Here are the animals I know:
+ - cat
+ - dog
+ - lynx
+
+What do you want to do:
+
+ 1. Play the guessing game
+ 2. List of all animals
+ 3. Search for an animal
+ 4. Calculate statistics
+ 5. Delete an animal
+ 6. Print the Knowledge Tree
+ 0. Exit
+ > 3
+Enter the animal:
+> lynx
+Facts about the lynx:
+ - It can climb trees.
+ - It is living in the forest.
+
+What do you want to do:
+
+ 1. Play the guessing game
+ 2. List of all animals
+ 3. Search for an animal
+ 4. Calculate statistics
+ 5. Delete an animal
+ 6. Print the Knowledge Tree
+ 0. Exit
+ > 4
+The Knowledge Tree stats
+- root node                    it can climb trees
+- total number of nodes        5
+- total number of animals      3
+- total number of statements   2
+- height of the tree           2
+- minimum depth                1
+- average depth                1.7
+
+What do you want to do:
+
+ 1. Play the guessing game
+ 2. List of all animals
+ 3. Search for an animal
+ 4. Calculate statistics
+ 5. Delete an animal
+ 6. Print the Knowledge Tree
+ 0. Exit
+ > 0
+
+See you soon!
+]]></system-out>
+  <system-err><![CDATA[mar 12, 2022 2:45:50 PTM animals.repository.KnowledgeBaseJackson load
+WARNING: The knowledge Tree has not been loaded.
+java.io.FileNotFoundException: animals_eo.yaml (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at com.fasterxml.jackson.dataformat.yaml.YAMLFactory.createParser(YAMLFactory.java:343)
+	at com.fasterxml.jackson.dataformat.yaml.YAMLFactory.createParser(YAMLFactory.java:14)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3331)
+	at animals.repository.KnowledgeBaseJackson.load(KnowledgeBaseJackson.java:27)
+	at animals.ui.Application.<init>(Application.java:19)
+	at animals.Main.main(Main.java:24)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.hyperskill.hstest.testing.execution.MainMethodExecutor.invokeMain(MainMethodExecutor.java:172)
+	at org.hyperskill.hstest.testing.execution.MainMethodExecutor.lambda$launch$0(MainMethodExecutor.java:199)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+mar 12, 2022 2:45:50 PTM animals.repository.KnowledgeBaseJackson load
+INFO: The Knowledge Tree has loaded successful.
+mar 12, 2022 2:45:50 PTM animals.repository.KnowledgeBaseJackson save
+INFO: The Knowledge Tree has saved successful.
+mar 12, 2022 2:45:50 PTM animals.repository.KnowledgeBaseJackson load
+INFO: The Knowledge Tree has loaded successful.
+mar 12, 2022 2:45:50 PTM animals.repository.KnowledgeBaseJackson save
+INFO: The Knowledge Tree has saved successful.
+mar 12, 2022 2:45:50 PTM animals.repository.KnowledgeBaseJackson load
+WARNING: The knowledge Tree has not been loaded.
+java.io.FileNotFoundException: animals_eo.json (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at com.fasterxml.jackson.core.JsonFactory.createParser(JsonFactory.java:916)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3331)
+	at animals.repository.KnowledgeBaseJackson.load(KnowledgeBaseJackson.java:27)
+	at animals.ui.Application.<init>(Application.java:19)
+	at animals.Main.main(Main.java:24)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.hyperskill.hstest.testing.execution.MainMethodExecutor.invokeMain(MainMethodExecutor.java:172)
+	at org.hyperskill.hstest.testing.execution.MainMethodExecutor.lambda$launch$0(MainMethodExecutor.java:199)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+mar 12, 2022 2:45:51 PTM animals.repository.KnowledgeBaseJackson load
+INFO: The Knowledge Tree has loaded successful.
+mar 12, 2022 2:45:51 PTM animals.repository.KnowledgeBaseJackson save
+INFO: The Knowledge Tree has saved successful.
+mar 12, 2022 2:45:51 PTM animals.repository.KnowledgeBaseJackson load
+INFO: The Knowledge Tree has loaded successful.
+mar 12, 2022 2:45:51 PTM animals.repository.KnowledgeBaseJackson save
+INFO: The Knowledge Tree has saved successful.
+mar 12, 2022 2:45:51 PTM animals.repository.KnowledgeBaseJackson load
+WARNING: The knowledge Tree has not been loaded.
+java.io.FileNotFoundException: animals_eo.xml (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at com.fasterxml.jackson.core.JsonFactory.createParser(JsonFactory.java:916)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3331)
+	at animals.repository.KnowledgeBaseJackson.load(KnowledgeBaseJackson.java:27)
+	at animals.ui.Application.<init>(Application.java:19)
+	at animals.Main.main(Main.java:24)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.hyperskill.hstest.testing.execution.MainMethodExecutor.invokeMain(MainMethodExecutor.java:172)
+	at org.hyperskill.hstest.testing.execution.MainMethodExecutor.lambda$launch$0(MainMethodExecutor.java:199)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+mar 12, 2022 2:45:51 PTM animals.repository.KnowledgeBaseJackson load
+INFO: The Knowledge Tree has loaded successful.
+mar 12, 2022 2:45:51 PTM animals.repository.KnowledgeBaseJackson save
+INFO: The Knowledge Tree has saved successful.
+mar 12, 2022 2:45:51 PTM animals.repository.KnowledgeBaseJackson load
+INFO: The Knowledge Tree has loaded successful.
+mar 12, 2022 2:45:51 PTM animals.repository.KnowledgeBaseJackson save
+INFO: The Knowledge Tree has saved successful.
+Mar 12, 2022 2:45:51 PM animals.repository.KnowledgeBaseJackson load
+WARNING: The knowledge Tree has not been loaded.
+java.io.FileNotFoundException: animals.yaml (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at com.fasterxml.jackson.dataformat.yaml.YAMLFactory.createParser(YAMLFactory.java:343)
+	at com.fasterxml.jackson.dataformat.yaml.YAMLFactory.createParser(YAMLFactory.java:14)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3331)
+	at animals.repository.KnowledgeBaseJackson.load(KnowledgeBaseJackson.java:27)
+	at animals.ui.Application.<init>(Application.java:19)
+	at animals.Main.main(Main.java:24)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.hyperskill.hstest.testing.execution.MainMethodExecutor.invokeMain(MainMethodExecutor.java:172)
+	at org.hyperskill.hstest.testing.execution.MainMethodExecutor.lambda$launch$0(MainMethodExecutor.java:199)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+Mar 12, 2022 2:45:52 PM animals.repository.KnowledgeBaseJackson load
+INFO: The Knowledge Tree has loaded successful.
+Mar 12, 2022 2:45:52 PM animals.repository.KnowledgeBaseJackson save
+INFO: The Knowledge Tree has saved successful.
+Mar 12, 2022 2:45:52 PM animals.repository.KnowledgeBaseJackson load
+INFO: The Knowledge Tree has loaded successful.
+Mar 12, 2022 2:45:52 PM animals.repository.KnowledgeBaseJackson save
+INFO: The Knowledge Tree has saved successful.
+Mar 12, 2022 2:45:52 PM animals.repository.KnowledgeBaseJackson load
+WARNING: The knowledge Tree has not been loaded.
+java.io.FileNotFoundException: animals.json (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at com.fasterxml.jackson.core.JsonFactory.createParser(JsonFactory.java:916)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3331)
+	at animals.repository.KnowledgeBaseJackson.load(KnowledgeBaseJackson.java:27)
+	at animals.ui.Application.<init>(Application.java:19)
+	at animals.Main.main(Main.java:24)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.hyperskill.hstest.testing.execution.MainMethodExecutor.invokeMain(MainMethodExecutor.java:172)
+	at org.hyperskill.hstest.testing.execution.MainMethodExecutor.lambda$launch$0(MainMethodExecutor.java:199)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+Mar 12, 2022 2:45:52 PM animals.repository.KnowledgeBaseJackson load
+INFO: The Knowledge Tree has loaded successful.
+Mar 12, 2022 2:45:52 PM animals.repository.KnowledgeBaseJackson save
+INFO: The Knowledge Tree has saved successful.
+Mar 12, 2022 2:45:52 PM animals.repository.KnowledgeBaseJackson load
+INFO: The Knowledge Tree has loaded successful.
+Mar 12, 2022 2:45:52 PM animals.repository.KnowledgeBaseJackson save
+INFO: The Knowledge Tree has saved successful.
+Mar 12, 2022 2:45:52 PM animals.repository.KnowledgeBaseJackson load
+WARNING: The knowledge Tree has not been loaded.
+java.io.FileNotFoundException: animals.xml (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at com.fasterxml.jackson.core.JsonFactory.createParser(JsonFactory.java:916)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3331)
+	at animals.repository.KnowledgeBaseJackson.load(KnowledgeBaseJackson.java:27)
+	at animals.ui.Application.<init>(Application.java:19)
+	at animals.Main.main(Main.java:24)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.hyperskill.hstest.testing.execution.MainMethodExecutor.invokeMain(MainMethodExecutor.java:172)
+	at org.hyperskill.hstest.testing.execution.MainMethodExecutor.lambda$launch$0(MainMethodExecutor.java:199)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+Mar 12, 2022 2:45:52 PM animals.repository.KnowledgeBaseJackson load
+INFO: The Knowledge Tree has loaded successful.
+Mar 12, 2022 2:45:53 PM animals.repository.KnowledgeBaseJackson save
+INFO: The Knowledge Tree has saved successful.
+Mar 12, 2022 2:45:53 PM animals.repository.KnowledgeBaseJackson load
+INFO: The Knowledge Tree has loaded successful.
+Mar 12, 2022 2:45:53 PM animals.repository.KnowledgeBaseJackson save
+INFO: The Knowledge Tree has saved successful.
+]]></system-err>
+</testsuite>
